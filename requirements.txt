@@ -1,0 +1,9 @@
+flask
+pandas
+joblib
+statsmodels
+boto3
+scikit-learn
+matplotlib
+numpy
+prophet
